@@ -10,8 +10,8 @@ $ git clone https://github.com/JockLawrie/DemoWebService.jl.git
 $ cd DemoWebService.jl
 $ julia
 julia> ]
-(v1.1) pkg > activate .
-(DemoWebService) pkg > instantiate
+(v1.1) pkg> activate .
+(DemoWebService) pkg> instantiate
 ```
 
 
