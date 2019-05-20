@@ -1,5 +1,6 @@
 module DemoWebService
 
-greet() = print("Hello World!")
+include("client/client.jl")
+include("server/server.jl")
 
-end # module
+end
